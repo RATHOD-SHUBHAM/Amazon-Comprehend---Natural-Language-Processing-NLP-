@@ -9,7 +9,7 @@
 
 ### NLP - Natural Language Processing.
 
-      Natural Language Processing or NLP is a field of Artificial Intelligence that gives machines the ability to read, understand and derive meaning from human languages.
+   Natural Language Processing or NLP is a field of Artificial Intelligence that gives machines the ability to read, understand and derive meaning from human languages.
 
 
 
@@ -39,32 +39,32 @@
 ### Task: Given the abstract and title for a set of Document, Comprehend has to predict the topics for each Document included in the test set.
 
   * Example:
-    Let's say I have 5 documents:
+      Let's say I have 5 documents:
     
-    Document 1: I like mongo and apple.\
-    Document 2: Crab and fish live in water.\
-    Document 3: Puppies and kittens are fluffy.\
-    Document 4: I had spinach and berry smoothie.\
-    Document 5: My pup loves mango.
+       Document 1: I like mongo and apple.\
+       Document 2: Crab and fish live in water.\
+       Document 3: Puppies and kittens are fluffy.\
+       Document 4: I had spinach and berry smoothie.\
+       Document 5: My pup loves mango.
     
 So if I take this corpus and apply LDA to it. As an example, the model might output something like this:
-      Document 1: 100% Topic A.\
-      Document 2: 100% Topic B.\
-      Document 3: 100% Topic B.\
-      Document 4: 100% Topic A.\
-      Document 5: 60% Topic A, 40% Topic B.
+         Document 1: 100% Topic A.\
+         Document 2: 100% Topic B.\
+         Document 3: 100% Topic B.\
+         Document 4: 100% Topic A.\
+         Document 5: 60% Topic A, 40% Topic B.
       
 Now if a take a look at the topic in detail, we can say that
-      Topic A: 40% apple, 20% mango, 10% breakfast....\
-      Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....\
+         Topic A: 40% apple, 20% mango, 10% breakfast....\
+         Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....
 
 
 Now that we know what our topic is about we can know that,
-      Document 1 is talking about Food.\
-      Document 2 is talking about Animals.\
-      Document 3 is talking about Animals.\
-      Document 4 is talking about Food.\
-      Document 5 is talking about Food + Animals.
+         Document 1 is talking about Food.\
+         Document 2 is talking about Animals.\
+         Document 3 is talking about Animals.\
+         Document 4 is talking about Food.\
+         Document 5 is talking about Food + Animals.
 
 
 
