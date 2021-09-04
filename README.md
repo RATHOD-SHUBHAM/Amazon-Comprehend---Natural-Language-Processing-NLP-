@@ -20,6 +20,8 @@ The service can identify critical elements in data, including references to lang
 
 Comprehend not only locates any content that contains personally identifiable information, it also redacts and masks those content.
 
+![Use-Cases_Accurate-Search 242a46f358903fc05285babc5c35de588313c52d](https://user-images.githubusercontent.com/58945964/132104825-fbe4573c-4984-41fd-8c93-1123bf8f203a.png)
+
 
 ### Boto3
 
