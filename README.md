@@ -23,7 +23,7 @@
 ![Use-Cases_Accurate-Search 242a46f358903fc05285babc5c35de588313c52d](https://user-images.githubusercontent.com/58945964/132104825-fbe4573c-4984-41fd-8c93-1123bf8f203a.png)
 
 
-### Boto3
+## Boto3
 
       Boto3 is AWS SDK for python. Boto3 makes it easy to integrate our Python application, library, or script with AWS services. The SDK provides an object-oriented API as well as low-level access to AWS services.
 
@@ -36,7 +36,9 @@
 
 
 
-### Task: Given the abstract and title for a set of Document, Comprehend has to predict the topics for each Document included in the test set.
+
+
+## Task: Given the abstract and title for a set of Document, Comprehend has to predict the topics for each Document included in the test set.
 
   * Example:
       Let's say I have 5 documents:
