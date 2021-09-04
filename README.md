@@ -53,10 +53,10 @@
     
    * So if I take this corpus and apply LDA to it. As an example, the model might output something like this:
    
-         Document 1: 100% Topic A.\
-         Document 2: 100% Topic B.\
-         Document 3: 100% Topic B.\
-         Document 4: 100% Topic A.\
+         Document 1: 100% Topic A.
+         Document 2: 100% Topic B.
+         Document 3: 100% Topic B.
+         Document 4: 100% Topic A.
          Document 5: 60% Topic A, 40% Topic B.
 
    * Now if a take a look at the topic in detail, we can say that
