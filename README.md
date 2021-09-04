@@ -50,23 +50,23 @@
        Document 5: My pup loves mango.
     
 So if I take this corpus and apply LDA to it. As an example, the model might output something like this:
-         Document 1: 100% Topic A.\
-         Document 2: 100% Topic B.\
-         Document 3: 100% Topic B.\
-         Document 4: 100% Topic A.\
-         Document 5: 60% Topic A, 40% Topic B.
+      Document 1: 100% Topic A.\
+      Document 2: 100% Topic B.\
+      Document 3: 100% Topic B.\
+      Document 4: 100% Topic A.\
+      Document 5: 60% Topic A, 40% Topic B.
       
 Now if a take a look at the topic in detail, we can say that
-         Topic A: 40% apple, 20% mango, 10% breakfast....\
-         Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....
+      Topic A: 40% apple, 20% mango, 10% breakfast....\
+      Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....
 
 
 Now that we know what our topic is about we can know that,
-         Document 1 is talking about Food.\
-         Document 2 is talking about Animals.\
-         Document 3 is talking about Animals.\
-         Document 4 is talking about Food.\
-         Document 5 is talking about Food + Animals.
+      Document 1 is talking about Food.\
+      Document 2 is talking about Animals.\
+      Document 3 is talking about Animals.\
+      Document 4 is talking about Food.\
+      Document 5 is talking about Food + Animals.
 
 
 
