@@ -1,6 +1,6 @@
 # Amazon-Comprehend --- Natural-Language-Processing-NLP.
 
-For a more detailed explanation, checkout my video presentation. [YouTube](https://www.youtube.com/watch?v=7azRd_k-H4M&list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI&index=2&t=13s)
+   * For a more detailed explanation, checkout my video presentation. [YouTube](https://www.youtube.com/watch?v=7azRd_k-H4M&list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI&index=2&t=13s)
 
 ### Building Custom Classifier using Amazon Comprehend.
    A quick rundown of how to perform NLP tasks with AWS s3, Boto3, and Amazon Comprehend in Python.
