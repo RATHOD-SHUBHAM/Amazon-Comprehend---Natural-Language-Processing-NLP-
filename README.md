@@ -59,17 +59,17 @@
 
    * Now if a take a look at the topic in detail, we can say that
    
-            Topic A: 40% apple, 20% mango, 10% breakfast....
-            Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....
+         Topic A: 40% apple, 20% mango, 10% breakfast....
+         Topic B: 60% pup, 40% kitten, 30% dog, 15% cute.....
 
 
    * Now that we know what our topic is about we can know that,
    
-            Document 1 is talking about Food.
-            Document 2 is talking about Animals.
-            Document 3 is talking about Animals.
-            Document 4 is talking about Food.
-            Document 5 is talking about Food + Animals.
+         Document 1 is talking about Food.
+         Document 2 is talking about Animals.
+         Document 3 is talking about Animals.
+         Document 4 is talking about Food.
+         Document 5 is talking about Food + Animals.
 
 
 
